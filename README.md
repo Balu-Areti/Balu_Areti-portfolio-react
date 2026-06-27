@@ -1,4 +1,4 @@
-# 🚀 Intelligent Portfolio Architecture
+2# 🚀 Intelligent Portfolio Architecture
 
 > A high-performance, responsive personal portfolio website built with **React.js**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase my profile as an **AI, Full Stack & Cloud Engineer**.
 
@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Live Demo
-### 👉 [Click Here to View Live Portfolio](https://balu1006.github.io/Balu_Areti-portfolio-react/)
+### 👉 [Click Here to View Live Portfolio](https://baluareti.is-a.dev/)
 
 ---
 
