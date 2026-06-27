@@ -2,16 +2,22 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
-export default defineConfig(({ mode }) => {
-  const isProd = mode === 'production'
+// export default defineConfig(({ mode }) => {
+//   const isProd = mode === 'production'
 
-  return {
-    plugins: [react()],
-    base: isProd ? '/Balu_Areti-portfolio-react/' : '/',
-    server: {
-      host: true,
-      port: 5173,
-      strictPort: true,
-    }
-  }
+//   return {
+//     plugins: [react()],
+//     base: isProd ? '/Balu_Areti-portfolio-react/' : '/',
+//     server: {
+//       host: true,
+//       port: 5173,
+//       strictPort: true,
+//     }
+//   }
+// })
+
+
+export default defineConfig({
+  plugins: [react()],
+  base: '/',
 })
