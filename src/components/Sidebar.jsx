@@ -82,8 +82,8 @@ const Sidebar = () => {
                     {/* Footer */}
                     <div className="pt-8 mt-4 border-t border-white/5">
                         <div className="flex justify-center gap-6">
-                            <a href="https://linkedin.com" target="_blank" className="text-gray-500 hover:text-cyan-400 transition-colors text-lg"><FaLinkedin /></a>
-                            <a href="https://github.com/balu1006" target="_blank" className="text-gray-500 hover:text-white transition-colors text-lg"><FaGithub /></a>
+                            <a href="https://www.linkedin.com/in/balu-areti/" target="_blank" className="text-gray-500 hover:text-cyan-400 transition-colors text-lg"><FaLinkedin /></a>
+                            <a href="https://github.com/Balu-Areti" target="_blank" className="text-gray-500 hover:text-white transition-colors text-lg"><FaGithub /></a>
                             <a href="mailto:balumahendraareti@gmail.com" className="text-gray-500 hover:text-red-400 transition-colors text-lg"><FaEnvelope /></a>
                         </div>
                     </div>

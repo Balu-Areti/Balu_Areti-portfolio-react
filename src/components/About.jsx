@@ -68,7 +68,7 @@ const About = () => {
                             className="mt-10 ml-2 md:ml-8"
                         >
                             <a
-                                href="https://www.linkedin.com/in/balu-areti-4608ba213/"
+                                href="https://www.linkedin.com/in/balu-areti/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-block px-8 py-3 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-bold rounded-lg shadow-lg hover:shadow-purple-500/30 transition-all transform hover:-translate-y-1"

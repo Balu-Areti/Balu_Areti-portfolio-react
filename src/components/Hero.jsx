@@ -82,8 +82,8 @@ const Hero = () => {
 
                     {/* Social Links */}
                     <div className="flex gap-6 pt-6">
-                        <a href="https://github.com/balu1006" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-white text-2xl transition-all transform hover:scale-110"><FaGithub /></a>
-                        <a href="https://www.linkedin.com/in/balu-areti-4608ba213/" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-400 text-2xl transition-all transform hover:scale-110"><FaLinkedin /></a>
+                        <a href="https://github.com/Balu-Areti" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-white text-2xl transition-all transform hover:scale-110"><FaGithub /></a>
+                        <a href="https://www.linkedin.com/in/balu-areti/" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-400 text-2xl transition-all transform hover:scale-110"><FaLinkedin /></a>
                     </div>
                 </motion.div>
 
