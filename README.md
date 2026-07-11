@@ -1,4 +1,4 @@
-2# 🚀 Intelligent Portfolio Architecture
+# 🚀 Intelligent Portfolio Architecture
 
 > A high-performance, responsive personal portfolio website built with **React.js**, **Tailwind CSS**, and **Framer Motion**. Designed to showcase my profile as an **AI, Full Stack & Cloud Engineer**.
 
@@ -63,7 +63,7 @@ Follow these steps to set up the project locally on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/balu1006/Balu_Areti-portfolio-react.git
+    git clone https://github.com/Balu-Areti/Balu_Areti-portfolio-react.git
     cd portfolio-react
     ```
 
@@ -87,7 +87,7 @@ Follow these steps to set up the project locally on your machine.
 
 -   📧 Email: [balumahendraareti@gmail.com](mailto:balumahendraareti@gmail.com)
 -   🔗 LinkedIn: [linkedin.com/in/balu-areti](https://www.linkedin.com/in/balu-areti-4608ba213/)
--   🐙 GitHub: [github.com/balu1006](https://github.com/balu1006)
+-   🐙 GitHub: [github.com/Balu-Areti](https://github.com/Balu-Areti)
 
 ---
 
