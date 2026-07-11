@@ -25,14 +25,5 @@
         "link": "https://www.coursera.org/account/accomplishments/verify/6U98TT2BKL4G",
         "tech": "React • JavaScript • UI/UX",
         "color": "text-cyan-400 border-cyan-500"
-    },
-    {
-        "title": "HR Intern",
-        "subtitle": "Radisson Blu | Udaipur",
-        "date": "Oct 2019 - Mar 2020",
-        "description": "Gained hands-on experience in HR operations, strengthening team coordination and professional communication in a high-paced hospitality environment.",
-        "link": "#",
-        "tech": "Management • Operations",
-        "color": "text-pink-400 border-pink-500"
     }
 ]
