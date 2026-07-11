@@ -6,7 +6,7 @@ const Sidebar = () => {
     const [isOpen, setIsOpen] = useState(false);
     const toggleMenu = () => setIsOpen(!isOpen);
 
-    const profileImg = `${import.meta.env.BASE_URL}images/profile.png`;
+    const profileImg = `${import.meta.env.BASE_URL}images/Profile.jpg`;
 
     const menuItems = [
         { name: 'Home', to: 'home', icon: <FaHome /> },
