@@ -17,6 +17,26 @@
     },
     {
         "skill": "Java",
+        "level": "80%"
+    },
+    {
+        "skill": "Spring Boot",
+        "level": "70%"
+    },
+    {
+        "skill": "Hibernate / JPA",
+        "level": "65%"
+    },
+    {
+        "skill": "REST APIs",
+        "level": "75%"
+    },
+    {
+        "skill": "Machine Learning",
+        "level": "65%"
+    },
+    {
+        "skill": "TensorFlow",
         "level": "60%"
     },
     {
