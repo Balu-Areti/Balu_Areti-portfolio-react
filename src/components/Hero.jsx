@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaFileDownload } from 'react-icons/fa';
 
 const Hero = () => {
     // Define paths directly to the public folder
-    const profileImg = `${import.meta.env.BASE_URL}images/Profile.jpg`;
+    const profileImg = `${import.meta.env.BASE_URL}images/Professional%20Picture.png`;
     const resumeLink = `${import.meta.env.BASE_URL}documents/resume.pdf`;
 
     return (
