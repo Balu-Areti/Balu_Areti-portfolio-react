@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
 import { Link } from 'react-scroll';
 import { FaHome, FaUser, FaCode, FaGraduationCap, FaBriefcase, FaProjectDiagram, FaEnvelope, FaLinkedin, FaGithub, FaBars, FaTimes } from 'react-icons/fa';
+import profileImg from '../assets/images/Profile.jpg';
 
 const Sidebar = () => {
     const [isOpen, setIsOpen] = useState(false);
     const toggleMenu = () => setIsOpen(!isOpen);
-
-    const profileImg = `${import.meta.env.BASE_URL}images/profile-pic.png`;
 
     const menuItems = [
         { name: 'Home', to: 'home', icon: <FaHome /> },

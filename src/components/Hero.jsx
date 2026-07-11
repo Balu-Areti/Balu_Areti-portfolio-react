@@ -1,10 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaFileDownload } from 'react-icons/fa';
+import profileImg from '../assets/images/Profile.jpg';
 
 const Hero = () => {
     // Define paths directly to the public folder
-    const profileImg = `${import.meta.env.BASE_URL}images/profile-pic.png`;
     const resumeLink = `${import.meta.env.BASE_URL}documents/resume.pdf`;
 
     return (
