@@ -18,7 +18,7 @@ const Skills = () => {
         },
         {
             title: "Web Development 🌐",
-            skills: ["React.js", "Flask", "HTML5 & CSS3", "Bootstrap / Tailwind"],
+            skills: ["React.js", "Spring Boot", "Flask", "REST APIs", "Hibernate / JPA", "HTML5 & CSS3", "Bootstrap / Tailwind"],
             // Cyan for Web/React
             colorTheme: "group-hover:text-cyan-400 hover:border-cyan-500 hover:bg-cyan-500/10 text-cyan-300"
         },
