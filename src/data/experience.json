@@ -16,14 +16,5 @@
         "link": "#",
         "tech": "AWS • Linux • Networking",
         "color": "text-orange-400 border-orange-500"
-    },
-    {
-        "title": "Meta Front-End Developer Certificate",
-        "subtitle": "Coursera (Authorized by Meta)",
-        "date": "Feb 2023 - Aug 2023",
-        "description": "Mastered React.js and UI/UX principles. Developed 3+ dynamic websites, improving UX/UI and conversion rates by 40%. Improved website speed and performance by 30% through optimizations.",
-        "link": "https://www.coursera.org/account/accomplishments/verify/6U98TT2BKL4G",
-        "tech": "React • JavaScript • UI/UX",
-        "color": "text-cyan-400 border-cyan-500"
     }
 ]
